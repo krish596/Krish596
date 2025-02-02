@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=gif%20aws%20devops%20engineer%20images&imgurl=https%3A%2F%2Fmedia.tenor.com%2FvPNYwVMYbiUAAAAM%2Fcrm-development-erp-development.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fdevops-aws-azure-linux-visualpath-gif-12895370&docid=lerG4Hy-pxWJoM&tbnid=_Q8BwVSKvuMXpM&vet=12ahUKEwj_4bS458WKAxWT3jgGHYmPAqUQM3oECBYQAA..i&w=220&h=127&hcb=2&ved=2ahUKEwj_4bS458WKAxWT3jgGHYmPAqUQM3oECBYQAA" alt="MasterHead" />
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" alt="MasterHead" />
 
 <div align="center">
   <img height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif" />
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/balu-thripurari-b77515235/" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-reddy-86b827305/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/balu_mahendra_gowda____/" target="_blank">
@@ -73,14 +73,14 @@
 <h4 align="left">🔥 My Stats:</h4>
 <p align="left">
   <strong>Profile Overview:</strong><br>
-  Job Title: AWS SysOps Engineer<br>
+  Job Title: AWS DevOps Engineer<br>
   Company: TATA Consultancy Services<br>
   Location: Chennai<br><br>
   <strong>Certifications:</strong><br>
   AWS Cloud Practitioner<br>
   AWS sysops Administrator Udemey<br><br>
   <strong>Achievements:</strong><br>
-  Awards or Recognition: Employee of the Month for exceptional work on AWS infrastructure
+  
 </p>
 
 ###
